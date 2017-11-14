@@ -24,8 +24,8 @@ export default class App extends React.Component {
       markers: [
         {
           latlng: {
-            latitude: 13.764884,
-            longitude: 100.538265
+            latitude: 14.171189,
+            longitude: 100.60345349999999
           },
           image: require('./images/flash.png'),
           photo: require('./images/SC.jpg'),
@@ -34,8 +34,8 @@ export default class App extends React.Component {
         },
         {
           latlng: {
-            latitude: 13.763681,
-            longitude: 100.538125
+            latitude: 14.091189,
+            longitude: 100.61845349999999
           },
           image: require('./images/flash.png'),
           photo: require('./images/SIIT.jpg'),
@@ -43,8 +43,8 @@ export default class App extends React.Component {
           description: ""
         }, {
           latlng: {
-            latitude: 13.764595,
-            longitude: 100.537438
+            latitude: 14.151189,
+            longitude: 100.61265349999999
           },
           image: require('./images/flash.png'),
           photo: require('./images/Engineer.jpg'),
